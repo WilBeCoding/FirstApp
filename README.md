@@ -1,6 +1,6 @@
 # First App
 
-This is the first app from Your New Monkey
-[*YourNewMonkey*](http://yournewmonkey.com)
+First App. The Future Is
+[*Now*](https://youtu.be/PhIkDtPTmTc)
 
-by [Wilson Rondini](http://zombo.com)
+by [Wilson Rondini](http://www.snopes.com/info/whatsnew.asp)
